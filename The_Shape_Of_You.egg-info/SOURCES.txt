@@ -1,0 +1,13 @@
+CHANGES.txt
+MANIFEST.in
+README.md
+setup.py
+The_Shape_Of_You.egg-info/PKG-INFO
+The_Shape_Of_You.egg-info/SOURCES.txt
+The_Shape_Of_You.egg-info/dependency_links.txt
+The_Shape_Of_You.egg-info/requires.txt
+The_Shape_Of_You.egg-info/top_level.txt
+the-shape-of-you/__init__.py
+the-shape-of-you/shape.py
+the-shape-of-you/tests/__init__.py
+the-shape-of-you/tests/shape_test.py
